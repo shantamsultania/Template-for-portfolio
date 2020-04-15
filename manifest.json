@@ -1,0 +1,16 @@
+{
+  "manifest_version": 2,
+
+  "name": "profile name ",
+  "description": "This is a templete to make a Extension of potfolio for Google Chrome ",
+ "icons": {
+"128": "logo.png"
+},
+"version": "1.0",
+"browser_action":{
+"default_title": "This is my portfolio extension made by Shantam With ❤",
+"default_popup": "extensionfile.html"},
+  "permissions": [
+   "activeTab"
+   ]
+}
