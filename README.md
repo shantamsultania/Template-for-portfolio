@@ -1,6 +1,6 @@
 # Template-for-portfolio
 
-This is a templete for portfolio maker using html,css and json.  
+This is a template for portfolio maker using html,css and json.  
 
 ## Template portfolio is a basic template for Google Chrome Extension
 
